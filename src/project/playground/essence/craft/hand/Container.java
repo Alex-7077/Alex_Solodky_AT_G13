@@ -1,0 +1,20 @@
+package project.playground.essence.craft.hand;
+
+import project.playground.essence.Matter;
+
+public abstract class Container extends Matter {
+    protected String name;
+
+    public Container(String name, int mass) {
+        super(mass);
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+}

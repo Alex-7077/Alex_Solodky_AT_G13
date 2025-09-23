@@ -1,3 +1,5 @@
+package homework.day1.Precondition;
+
 public class FooWhile {
     public static void fooWhile() {
         int i = 23;

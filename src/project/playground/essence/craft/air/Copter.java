@@ -1,0 +1,7 @@
+package project.playground.essence.craft.air;
+
+public class Copter extends Aircraft {
+    public Copter(String name, int mass) {
+        super(name, mass);
+    }
+}

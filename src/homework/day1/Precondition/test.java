@@ -1,3 +1,5 @@
+package homework.day1.Precondition;
+
 import java.util.Random;
 
 public class test {

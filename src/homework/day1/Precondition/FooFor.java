@@ -1,6 +1,8 @@
+package homework.day1.Precondition;
+
 public class FooFor {
 
-    public void fooFor() {
+   public void fooFor() {
         int e = 0;
         for (int i = 23; i <= 28; i++) {
             if (i % 13 == 0) {
